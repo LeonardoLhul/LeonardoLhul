@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Leonardo Lhul Aguiar
 
-- 🔭 Atualmente estudando React e TypeScript
+- 🔭 Atualmente estudando React
 - 📫 Contate-me: leolhulaguiar@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLhul&show_icons=true&theme=tokyonight)](https://github.com/LeonardoLhul/github-readme-stats)
