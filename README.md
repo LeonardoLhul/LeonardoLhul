@@ -42,5 +42,5 @@ Landing page desenvolvida com React + TailwindCSS, focada em conversão e respon
 ## 📫 Contato
 
 📧 leolhulaguiar@gmail.com  
-💼 linkedin.com/in/lhulaguiar  
-🌐 leonardolhulaguiar.com.br  
+💼 https://linkedin.com/in/lhulaguiar  
+🌐 https://leonardolhulaguiar.com.br  
