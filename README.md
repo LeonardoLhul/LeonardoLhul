@@ -1,22 +1,46 @@
-### Opa! Eu sou o Leonardo Lhul Aguiar
+# 👋 Olá, eu sou o Leonardo Lhul Aguiar
 
-- 🔭 Atualmente estudando React
-- 📫 Contate-me: leolhulaguiar@gmail.com
+💻 Desenvolvedor Full-Stack Júnior  
+📍 Gravataí, RS – Brasil  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLhul&show_icons=true&theme=tokyonight)](https://github.com/LeonardoLhul/github-readme-stats)
+Desenvolvedor com experiência prática na criação de aplicações web completas, utilizando **React, TypeScript, Python (Flask) e MySQL**, com integração via APIs REST.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
+---
 
-##
+## 🚀 Stack
 
-<div> 
-  <a href="https://instagram.com/lhulaguiar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/N63QVkgb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leolhulaguiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lhulaguiar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+**Front-end:** React • TypeScript • JavaScript • TailwindCSS • Vite  
+**Back-end:** Python • Flask • APIs REST • JWT  
+**Banco de Dados:** MySQL • SQL  
+**Ferramentas:** Git • GitHub • Figma  
+
+---
+
+## 📌 Projeto em Destaque
+
+### 🏪 Sistema de Gestão para Loja de Conveniência  
+🔗 https://github.com/LeonardoLhul/sistema-conveniencia  
+
+Sistema full-stack **em uso real**, com:
+
+- Autenticação JWT e controle de usuários  
+- Gestão de estoque e vendas (PDV)  
+- Dashboard com gráficos (Recharts)  
+- SPA com React + TypeScript  
+- Integração completa front + back  
+
+---
+
+## 🌐 Projeto Freelancer
+
+🚀 https://agenciastartip.com.br/  
+
+Landing page desenvolvida com React + TailwindCSS, focada em conversão e responsividade.
+
+---
+
+## 📫 Contato
+
+📧 leolhulaguiar@gmail.com  
+💼 linkedin.com/in/lhulaguiar  
+🌐 leonardolhulaguiar.com.br  
