@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou o Leonardo Lhul Aguiar
+# Olá, eu sou o Leonardo Lhul Aguiar
 
-💻 Desenvolvedor Full-Stack Júnior  
-📍 Gravataí, RS – Brasil  
+Desenvolvedor Full-Stack Júnior  
+Gravataí, RS – Brasil  
 
 Desenvolvedor com experiência prática na criação de aplicações web completas, utilizando **React, TypeScript, Python (Flask) e MySQL**, com integração via APIs REST.
 
 ---
 
-## 🚀 Stack
+## Stack
 
 **Front-end:** React • TypeScript • JavaScript • TailwindCSS • Vite  
 **Back-end:** Python • Flask • APIs REST • JWT  
@@ -16,10 +16,10 @@ Desenvolvedor com experiência prática na criação de aplicações web complet
 
 ---
 
-## 📌 Projeto em Destaque
+## Projeto em Destaque
 
-### 🏪 Sistema de Gestão para Loja de Conveniência  
-🔗 https://github.com/LeonardoLhul/sistema-conveniencia  
+### Sistema de Gestão para Loja de Conveniência  
+https://github.com/LeonardoLhul/sistema-conveniencia  
 
 Sistema full-stack **em uso real**, com:
 
@@ -31,9 +31,9 @@ Sistema full-stack **em uso real**, com:
 
 ---
 
-## 🌐 Projeto Freelancer
+## Projeto Freelancer
 
-🚀 https://agenciastartip.com.br/  
+https://agenciastartip.com.br/  
 
 Landing page desenvolvida com React + TailwindCSS, focada em conversão e responsividade.
 
