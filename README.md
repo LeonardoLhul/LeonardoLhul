@@ -10,7 +10,7 @@ Email: leolhulaguiar@gmail.com • [LinkedIn](https://linkedin.com/in/lhulaguiar
 
 **Back-end:** C# • .NET • ASP.NET Core • APIs REST • Python • Flask •JWT  
 **Front-end:** React • TypeScript • JavaScript • TailwindCSS • Vite  
-**Banco de Dados:** MySQL • SQL Server • SQL  
+**Banco de Dados:** MySQL • SQL Server • SQLite
 **Ferramentas:** Git • GitHub • Figma  
 
 ---
