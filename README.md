@@ -1,17 +1,16 @@
 # Olá, eu sou o Leonardo Lhul Aguiar
 
-Desenvolvedor Full-Stack Júnior  
-Gravataí, RS – Brasil  
+Desenvolvedor • Gravataí, RS – Brasil  
 
-Desenvolvedor com experiência prática na criação de aplicações web completas, utilizando **React, TypeScript, Python (Flask) e MySQL**, com integração via APIs REST.
+Email: leolhulaguiar@gmail.com • [LinkedIn](https://linkedin.com/in/lhulaguiar) • [Portfólio](https://leonardolhulaguiar.com.br)
 
 ---
 
 ## Stack
 
+**Back-end:** C# • .NET • ASP.NET Core • APIs REST • Python • Flask •JWT  
 **Front-end:** React • TypeScript • JavaScript • TailwindCSS • Vite  
-**Back-end:** Python • Flask • APIs REST • JWT  
-**Banco de Dados:** MySQL • SQL  
+**Banco de Dados:** MySQL • SQL Server • SQL  
 **Ferramentas:** Git • GitHub • Figma  
 
 ---
@@ -21,26 +20,21 @@ Desenvolvedor com experiência prática na criação de aplicações web complet
 ### Sistema de Gestão para Loja de Conveniência  
 https://github.com/LeonardoLhul/sistema-conveniencia  
 
-Sistema full-stack **em uso real**, com:
+Sistema em uso real para gestão de uma loja de conveniência, com autenticação JWT, controle de usuários, vendas, estoque, dashboard com gráficos e integração completa entre front-end e back-end.
 
-- Autenticação JWT e controle de usuários  
-- Gestão de estoque e vendas (PDV)  
-- Dashboard com gráficos (Recharts)  
-- SPA com React + TypeScript  
-- Integração completa front + back  
+**Tecnologias:** React • TypeScript • Python • Flask • MySQL • Recharts
 
 ---
 
-## Projeto Freelancer
+## Projetos Freelancer
 
-https://agenciastartip.com.br/  
+### Landing Pages para Clientes Reais
 
-Landing page desenvolvida com React + TailwindCSS, focada em conversão e responsividade.
+Desenvolvimento de landing pages responsivas com foco em apresentação de serviços, presença digital e conversão de contatos.
 
----
+Projetos publicados:
 
-## 📫 Contato
+- Agência Startip: https://agenciastartip.com.br/
+- PugForge: https://pugforge.com.br/
 
-📧 leolhulaguiar@gmail.com  
-💼 https://linkedin.com/in/lhulaguiar  
-🌐 https://leonardolhulaguiar.com.br  
+**Tecnologias:** React • Vite • TailwindCSS • JavaScript/TypeScript
