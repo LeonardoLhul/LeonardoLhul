@@ -36,5 +36,6 @@ Projetos publicados:
 
 - Agência Startip: https://agenciastartip.com.br/
 - PugForge: https://pugforge.com.br/
+- 4NewTax: https://4newtax.com/
 
 **Tecnologias:** React • Vite • TailwindCSS • JavaScript/TypeScript
